@@ -9,6 +9,7 @@ int main()
 		{
 			cout << i << " * " << j << endl;
 		}
+		cout << endl;
 	}
 	return 0;
 }
